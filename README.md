@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-I'm thrilled to welcome you to my GitHub profile, where I, a passionate Master of Data Science student, explore the multifaceted world of data and its boundless possibilities. With a strong foundation in data analytics and an insatiable curiosity for all things data-related, I invite you to delve into the projects and repositories that reflect my journey and expertise in this dynamic field.
+I'm thrilled to welcome you to my GitHub profile, where I, a passionate Master of Data Science graduate, explore the multifaceted world of data and its boundless possibilities. With a strong foundation in data analytics and an insatiable curiosity for all things data-related, I would like to invite you to delve into the projects and repositories that reflect my journey and expertise in this dynamic field.
 
 📊 **Data Analysis, Machine Learning, NLP, and Visualization**
 
